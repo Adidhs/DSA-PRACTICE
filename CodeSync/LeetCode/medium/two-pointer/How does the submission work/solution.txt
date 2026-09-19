@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: How does the submission work
- * URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+ * URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2146274680/
  * Language: Problem List
  * Difficulty: Medium
  * Topics: Array, Two Pointers, Binary Search
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-09-19T04:29:42.658Z
+ * Memory: 25.64 MB
+ * Synced: 2026-09-19T04:30:32.996Z
  */
 
 if (sum == target) {
