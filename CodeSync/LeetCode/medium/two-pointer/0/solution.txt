@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: 0
+ * URL: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+ * Language: Problem List
+ * Difficulty: Medium
+ * Topics: Array, Two Pointers, Binary Search
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-19T04:28:33.175Z
+ */
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& numbers, int target) {
+        
+    }
+};
