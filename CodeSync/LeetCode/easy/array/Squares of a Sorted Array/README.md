@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/squares-of-a-sorted-array/description/
-- Synced: 2026-09-24T16:59:06.513Z
+- Synced: 2026-09-24T16:59:52.010Z
 
 ## Problem Description
 
