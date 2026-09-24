@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: 0
+ * URL: https://leetcode.com/problems/squares-of-a-sorted-array/description/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array, Two Pointers, Sorting
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-09-24T16:58:18.267Z
+ */
+
+class Solution {
+public:
+    vector<int> sortedSquares(vector<int>& nums) {
+        
+    }
+};
