@@ -7,7 +7,7 @@
  * Topics: Array, Two Pointers, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-25T14:41:45.555Z
+ * Synced: 2026-09-25T14:43:20.938Z
  */
 
 /**
@@ -21,4 +21,5 @@ returnColumnSizes) {
     for(i=0;i<=n;i++){
         i=a[0]
     }
+        left=a[i+1]
 }
