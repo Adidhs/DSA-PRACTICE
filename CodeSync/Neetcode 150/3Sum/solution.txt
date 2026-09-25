@@ -7,7 +7,7 @@
  * Topics: Array, Two Pointers, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-25T14:40:03.638Z
+ * Synced: 2026-09-25T14:40:48.864Z
  */
 
 /**
@@ -18,5 +18,5 @@
  */
 int** threeSum(int* nums, int numsSize, int* returnSize, int** 
 returnColumnSizes) {
-    for()
+    for(i=0,i<=n;i)
 }
