@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Easy
 - Topics: Array, Two Pointers, Sorting
-- Runtime: N/A
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/squares-of-a-sorted-array/description/
-- Synced: 2026-09-24T16:59:52.010Z
+- Runtime: 0 ms
+- Memory: 25.52 MB
+- Problem URL: https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2153073915/
+- Synced: 2026-09-25T14:53:39.401Z
 
 ## Problem Description
 
