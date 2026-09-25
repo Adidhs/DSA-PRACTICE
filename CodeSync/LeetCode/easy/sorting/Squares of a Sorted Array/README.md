@@ -5,9 +5,9 @@
 - Difficulty: Easy
 - Topics: Array, Two Pointers, Sorting
 - Runtime: 0 ms
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/squares-of-a-sorted-array/
-- Synced: 2026-09-25T14:46:51.209Z
+- Memory: 25.52 MB
+- Problem URL: https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2153073915/
+- Synced: 2026-09-25T14:53:39.401Z
 
 ## Problem Description
 
