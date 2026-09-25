@@ -1,18 +1,26 @@
 /*
  * Platform: LeetCode
  * Problem: Squares of a Sorted Array
- * URL: https://leetcode.com/problems/squares-of-a-sorted-array/description/
+ * URL: https://leetcode.com/problems/squares-of-a-sorted-array/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Two Pointers, Sorting
- * Runtime: N/A
+ * Runtime: 0 ms
  * Memory: N/A
- * Synced: 2026-09-24T16:59:52.010Z
+ * Synced: 2026-09-25T14:46:51.209Z
  */
 
-/**
- * Note: The returned array must be malloced, assume caller calls free().
- */
-int* sortedSquares(int* nums, int numsSize, int* returnSize) {
-    
+*returnSize = n;
+
+    for (int i = n - 1; i >= 0; i--) {
+        if (abs(arr[left]) > abs(arr[right])) {
+            result[i] = arr[left] * arr[left];
+            left++;
+        } else {
+            result[i] = arr[right] * arr[right];
+            right--;
+        }
+    }
+
+    return result;
 }
