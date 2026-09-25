@@ -7,7 +7,7 @@
  * Topics: Array, Two Pointers, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-25T14:37:54.006Z
+ * Synced: 2026-09-25T14:39:14.403Z
  */
 
 /**
