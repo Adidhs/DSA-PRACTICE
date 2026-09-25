@@ -1,6 +1,6 @@
 {
-  "submissionTimestamp": "2026-09-24T16:59:52.010Z",
-  "runtime": "N/A",
+  "submissionTimestamp": "2026-09-25T14:46:51.209Z",
+  "runtime": "0 ms",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
@@ -11,6 +11,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Squares of a Sorted Array",
-  "problemUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/description/",
-  "submissionId": "jvruph"
+  "problemUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+  "submissionId": "zb69kj"
 }
