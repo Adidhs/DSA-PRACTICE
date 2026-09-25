@@ -7,12 +7,12 @@
  * Topics: Array, Two Pointers, Sorting
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-24T16:58:18.267Z
+ * Synced: 2026-09-25T14:45:29.762Z
  */
 
-class Solution {
-public:
-    vector<int> sortedSquares(vector<int>& nums) {
-        
-    }
-};
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+int* sortedSquares(int* nums, int numsSize, int* returnSize) {
+    
+}
