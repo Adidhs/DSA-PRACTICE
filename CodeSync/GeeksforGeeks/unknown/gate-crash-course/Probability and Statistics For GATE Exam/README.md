@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/gate/probability-and-statistics-for-gate-exam/
-- Synced: 2026-10-04T05:56:56.104Z
+- Synced: 2026-10-04T05:57:50.111Z
 
 ## Problem Description
 
