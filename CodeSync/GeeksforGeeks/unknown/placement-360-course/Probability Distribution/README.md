@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/maths/probability-distribution/
-- Synced: 2026-10-04T06:31:50.536Z
+- Synced: 2026-10-04T06:32:35.538Z
 
 ## Problem Description
 
